@@ -1,5 +1,6 @@
 # TwitterBot
-Twitter Bot using node js and twit lib
+Twitter Bot using node js and twit lib.
+This app will post "Thank you for following @person_name" on twitter if anyone follows.
 ## Step 1
   Configure config.js with your twitter developer application data.
   ```
